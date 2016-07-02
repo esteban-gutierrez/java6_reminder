@@ -23,9 +23,9 @@ import javax.annotation.Generated;
  * Declaration etc.
  * 
  * @see http://docs.oracle.com/javase/6/docs/api/javax/annotation/Generated.html
- * @see 
  *
  * @author estebangm
+ * @version 1.0
  */
 public class GeneratedAnnotation {
 

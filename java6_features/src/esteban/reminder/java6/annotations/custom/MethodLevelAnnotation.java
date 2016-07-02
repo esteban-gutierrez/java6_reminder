@@ -7,6 +7,7 @@ import java.lang.annotation.ElementType;
  * Custom annotation to be applied on a method.
  *
  * @author estebangm
+ * @version 1.0
  */
 @Target(value = {ElementType.METHOD})
 public @interface MethodLevelAnnotation {

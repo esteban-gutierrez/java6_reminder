@@ -25,6 +25,7 @@ import java.util.List;
  *
  * @see https://deors.wordpress.com/2011/09/26/annotation-types/
  * @author estebangm
+ * @version 1.0
  */
 public class ClassWithJavaDefinedAnnotations {
 

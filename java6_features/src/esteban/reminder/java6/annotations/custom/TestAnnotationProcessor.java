@@ -20,8 +20,9 @@ import javax.annotation.processing.SupportedSourceVersion;
  * The javac compiler of Mustang (Java 6) has an option called ‘-processor’ where we can specify the Name of the
  * Annotation Processor along with a Set of Java Source Files containing the Annotations. 
  *
- * @author estebangm
  * @see http://www.javabeat.net/java-6-0-features-part-2-pluggable-annotation-processing-api/
+ * @author estebangm
+ * @version 1.0
  */
 @SupportedAnnotationTypes(value= {"*"})
 @SupportedSourceVersion(SourceVersion.RELEASE_8)

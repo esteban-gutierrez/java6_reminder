@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 /**
  * This class demonstrates use of annotations using reflection.
  * 
- * @author Yashwant Golecha (ygolecha@gmail.com)
+ * @author estebangm
  * @version 1.0
  */
 public class TodoReport {

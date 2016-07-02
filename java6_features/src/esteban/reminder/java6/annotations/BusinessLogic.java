@@ -3,7 +3,6 @@ package esteban.reminder.java6.annotations;
 /**
  * This class demonstrates use of Todo annotation defined in Todo.java
  * 
- * @author Yashwant Golecha (ygolecha@gmail.com)
  * @version 1.0
  */
 public class BusinessLogic {

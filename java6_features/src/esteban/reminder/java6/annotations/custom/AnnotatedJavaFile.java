@@ -6,6 +6,7 @@ package esteban.reminder.java6.annotations.custom;
  * Annotation Types have been defined to be tagged to these respective Elements with the help of @Target Annotation.
  *
  * @author estebangm
+ * @version 1.0
  */
 @ClassLevelAnnotation()
 public class AnnotatedJavaFile {
